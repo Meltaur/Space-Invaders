@@ -1,0 +1,12 @@
+#pragma once
+#include <SFML/Graphics.hpp>
+#include <iostream>
+#include <vector>
+#include <SFML/Audio.hpp>
+#include <cstdlib>
+#include <ctime>
+#include <map>
+#include <string>
+#include <sstream>
+#include <stdio.h>
+#include <math.h>
